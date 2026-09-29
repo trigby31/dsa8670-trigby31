@@ -73,3 +73,5 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+## Version control matters in analytics because we need to be able to have a full set organization when dealing with the amount of data we have sometimes. The amount of data and using specific language to access it is viable in order for us to have success in our work. Without the current use of this, we can often hurt ourselves in the process. 
